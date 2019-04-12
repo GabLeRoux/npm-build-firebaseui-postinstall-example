@@ -1,0 +1,13 @@
+{
+  "name": "npm-build-firebaseui-postinstall-example",
+  "version": "1.0.0",
+  "description": "https://stackoverflow.com/questions/55653861/is-there-a-way-to-automatically-build-a-dependency-in-package-json",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
